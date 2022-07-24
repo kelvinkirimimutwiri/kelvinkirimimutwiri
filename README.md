@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinkirimimutwiri
+- 👋 Hi, I’m kelvin
 - 👀 I’m interested in Web design and development, and Salesforce development 
 - 🌱 I’m currently learning salesforce administration with trailhead.com
 - 💞️ I’m looking to collaborate on website development and salesforce development
